@@ -1,6 +1,6 @@
 # Hola, soy Ezequiel Díaz 👋
 
-**Data Analyst | Python · SQL Server · Power BI | Automatización de Reportes Operativos**
+**Data Analyst | Python · SQL Server · Power BI - QlikSenSe | Automatización de Reportes Operativos**
 
 Analista de datos con experiencia real en entornos de retail a gran escala, especializado en automatización de pipelines de datos, reportes operativos y dashboards de toma de decisiones. Me enfoco en convertir datos crudos en información accionable que ahorra tiempo y reduce errores humanos.
 
